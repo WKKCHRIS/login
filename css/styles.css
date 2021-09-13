@@ -1,0 +1,64 @@
+body {
+  background-image: url("images/bgimg.png");
+
+}
+
+.container {
+  align-content: center;
+  margin: 200px 200px 200px ;
+  color: #FAE3D9;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.card {
+  background-color: #393E46 !important;
+}
+
+
+.input-group span {
+background-color: #00ADB5 !important;
+}
+
+.input-group input {
+  background-color: #FAE3D9 !important;
+}
+
+.login-btn {
+background-color: #00ADB5 !important;
+color: white;
+}
+
+.login-btn:hover {
+  background-color: #FAE3D9 !important;
+}
+
+.remember input
+{
+width: 20px;
+height: 20px;
+margin-left: 15px;
+margin-right: 5px;
+}
+
+
+.social_icon{
+position: relative;
+left: -20px;
+top: 390px;
+}
+
+.social_icon span{
+font-size: 60px;
+margin-left: 10px;
+color:#00ADB5  !important;
+}
+
+.social_icon span:hover{
+color: #FAE3D9 !important;
+cursor: pointer;
+}
+
+.sign-up {
+  margin-left: 10px;
+}
